@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：版本管理
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 081 篇 - 百家乐Ai预测分析工具：版本编号应与每条输出一起保存](https://github.com/TGmszrcsz/baccarat-ai-081) ｜ [下一篇：第 083 篇 - 百家乐Ai预测分析工具：操作权限如何影响数据记录的可信度](https://github.com/TGmszrcsz/baccarat-ai-083)
+
+<!-- article-chain:end -->
+
 阈值被调整后历史指标改变，但没有修改说明。本篇围绕“参数改动为何要留下原因与时间”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
